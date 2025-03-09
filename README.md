@@ -1,6 +1,6 @@
 # Exploratory-Data-Analysis-EDA-with-Pandas
 ## Overview
-This project analyzes customer purchase data using Python. The analysis is performed in a Jupyter Notebook (Cust_Purch_Data_Exercise.ipynb) and provides insights into customer behavior, trends, and patterns.
+This project analyzes customer purchase data using Python. The analysis is performed in a Jupyter Notebook **Cust_Purch_Data_Exercise.ipynb** and provides insights into customer behavior, trends, and patterns.
 
 ## How to Use
 1. Ensure you have Python installed.
@@ -11,6 +11,7 @@ This project analyzes customer purchase data using Python. The analysis is perfo
 ## Features
 - Data preprocessing and cleaning
 - Exploratory Data Analysis (EDA)
+
 
 ### **Question 1: Import Pandas and Read the CSV File**
 **Code and Explanation:**
